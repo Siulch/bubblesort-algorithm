@@ -1,0 +1,24 @@
+{
+  "name": "bubblesort-algorithm",
+  "version": "1.0.1",
+  "description": "bubble sort",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siulch/bubblesort-algorithm.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "bubblesort"
+  ],
+  "author": "Jose Luis Chavez <josephsiul15@gmai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siulch/bubblesort-algorithm/issues"
+  },
+  "homepage": "https://github.com/Siulch/bubblesort-algorithm#readme"
+}
